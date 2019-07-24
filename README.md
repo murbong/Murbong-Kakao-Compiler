@@ -7,6 +7,8 @@
 > 프로젝트 소스 링크 : https://github.com/murbong/Murbong-Kakao-Compiler
 >
 > 카카오톡에서 ‘코드머법관 머봉’ @murbong 을 검색해보세요!
+
+>(서버가 일신상의 이유로 사라졌습니다.)
 >
 > 지원하는 언어 : C, C++, C++11, C#, JAVA, Python2, Python3, Lua
 >
